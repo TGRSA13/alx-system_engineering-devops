@@ -4,7 +4,7 @@ In this project I will be securing my load balancer using SSL certs. I will be d
 
 ## :running: Getting Started
 
-* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system reqd.
+* [Ubuntu 16.04 LTS](http://releases.ubuntu.com/16.04/) - Operating system reqd.
 
 ## :warning: Prerequisites
 
